@@ -1,0 +1,16 @@
+{
+    "name": "partido/politico",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "app/Application/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "thalmapardo@gmail.com"
+        }
+    ],
+    "require": {}
+}
